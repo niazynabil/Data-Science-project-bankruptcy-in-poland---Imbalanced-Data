@@ -1,4 +1,4 @@
-# Data-Science-project-bankruptcy-in-poland---Imbalanced-Data
+# Data-Science-project-bankruptcy-in-poland-Imbalanced-Data
 # Bankruptcy in Poland Data Science Project
 
 This project aims to predict bankruptcy in Polish companies using machine learning algorithms. The dataset used for this project is the "Bankruptcy in Poland" dataset, which contains financial ratios and other financial indicators for a sample of Polish companies.
